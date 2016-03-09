@@ -1,0 +1,11 @@
+*~
+*#
+.#*
+a.out
+*decls.h
+*.o
+*.a
+sandbox
+platform.h
+gdb-command
+gitsha.c
